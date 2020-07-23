@@ -1,0 +1,18 @@
+Horn parallel analysis (milansc) Wall times, measured in jupyter notebook by number of simulations of random data for comparing eigen values.
+
+Dataset: 56x8
+
+100 simulations: 244ms
+200 simulations: 431ms
+500 simulations: 1.06s
+1000 simulations: 1.97s
+
+
+
+
+Dataset: 4000x21
+
+100 simulations: 3.71s
+200 simulations  4.58s
+500 simulations: 11.6s
+1000 simulations: 23.2s
